@@ -1,0 +1,24 @@
+# History files 
+.Rhistory 
+.Rapp.history 
+
+ 
+# Example code in package build process 
+*-Ex.R 
+
+ 
+# RStudio files 
+.Rproj.user/ 
+ 
+# Data files
+data/*.*
+figure/*.*
+
+
+# produced output files 
+*.html 
+*.pdf 
+
+ 
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3 
+.httr-oauth 
